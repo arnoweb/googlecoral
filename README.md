@@ -3,5 +3,5 @@ The Coral Dev Board is a single-board-computer that contains an Edge TPU coproce
 
 Demos scripts gathered throw Google Coral tutorials examples : https://coral.withgoogle.com/docs/dev-board/get-started/
 
-1. Add organization of demo files
-2. Let's play and change demo files
+1. Re-organization of demo files provied by Google
+2. Let's play and change Google demo files
